@@ -32,3 +32,4 @@ A GPU is recommended for faster training.
 https://medium.com/@abeershuvo/convolutional-neural-network-85ce31a4bc35
 
 # Drive URL
+https://drive.google.com/drive/folders/1v8m1tpW1FR0NAg_UojKZl9ydj2VWnkHk?usp=drive_link
